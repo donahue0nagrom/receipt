@@ -29,7 +29,7 @@ print("Total $", total)
 
 
 print("=============================================================================")
-print (" Do come again ")
+print (" Do come again ").center(30,"=")
 print("=============================================================================")
 
 print(" Thank you for your business!")
